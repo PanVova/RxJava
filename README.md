@@ -2,6 +2,9 @@
 
 This project was created to learn or to test operators in RxJava2
 
+## Main Screen
+# ![alt text](https://github.com/PanVova/RxJava/blob/main/2021-11-11%2015.08.02.jpg)
+
 ## Multiply And Filter
 # ![alt text](https://github.com/PanVova/RxJava/blob/main/Screenshot%202021-11-11%20at%2015.01.52.png)
 
